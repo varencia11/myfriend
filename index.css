@@ -1,0 +1,14 @@
+h1 {
+    font-size: 60px;
+    color: orange;
+}
+p {
+    font-size: 40px;
+    color: brown;
+    margin-bottom: 30px;
+}
+
+a {
+    font-size: 30px;
+    color: rgb(178, 116, 22);
+}
